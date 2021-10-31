@@ -3,7 +3,7 @@ title: How To Make Your Discord Bot Run For 24/7
 date: 2021/3/19
 description: A blog post on how to make your discord bot run for 24/7.
 tag: web development
-author: You
+author: Solomon Shalom Lijo
 ---
 
 # How To Make Your Discord Bot Run For 24/7
