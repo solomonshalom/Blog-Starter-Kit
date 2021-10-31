@@ -6,19 +6,22 @@ tag: web development
 author: You
 ---
 
-# Start
+# How To Make Your Discord Bot Run For 24/7
+This post will show you on how to run your discord bot on [**replit**](https://docs.replit.com/tutorials/06-github-and-run-button) for 24/7 and the best part - it's free. 
+
+## Start
 
 If your Python/Javascript Discord Bot is already built then you can make do some changes in that Repl to make it run for 24 Hours or you can start from Scratch.
 
-## Step 1
+### Step 1
 
 First, upload your discord bot files to replit using github. You can view this documentation to know more about upload/importing github repositories - [**Replit Docs**](https://docs.replit.com/tutorials/06-github-and-run-button)
 
-## Step 2
+### Step 2
 
 Once your done uploading your files from github to replit, go ahead and click on the ``run`` button, this will run your discord bot and make it online.
 
-## Step 3
+### Step 3
 
 After the bot goes online, copy the webserver link and head over to uptimerobot. Once you head over to uptimerobot, make an account and verify it. You will be then redirected to your dashboard, where you will see the `create monitor` option. Click it, now you will see a pop-up where you will see the following options:- 
 
