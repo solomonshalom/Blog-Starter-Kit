@@ -23,7 +23,7 @@ Once your done uploading your files from github to replit, go ahead and click on
 
 ### Step 3
 
-After the bot goes online, copy the webserver link and head over to uptimerobot. Once you head over to uptimerobot, make an account and verify it. You will be then redirected to your dashboard, where you will see the `create monitor` option. Click it, now you will see a pop-up where you will see the following options:- 
+After the bot goes online, copy the webserver link and head over to uptimerobot. Once you head over to uptimerobot, make an account and verify it. You will be then redirected to your dashboard, where you will see the `Add A Monitor` option. Click it, now you will see a pop-up where you will see the following options:- 
 
 1. Monitor Type
 For this option, select HTTP because we are going to be using the webserver link
@@ -34,4 +34,4 @@ The 'Friendly Name' is just an option to write any [**name**](https://www.google
 3. URL (or IP)
 This is where you will be adding the webserver link, through this we will be keeping it online for 24/7
 
-Your done, rest of the options should be kept as it is (Default) and not to be changed. Just click the `create monitor` option below and your bot is online for 24/7
+Your done, rest of the options should be kept as it is (Default) and not to be changed. Just click the `Create Monitor` option below and your bot is online for 24/7
