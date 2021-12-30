@@ -1,7 +1,7 @@
 ---
-title: Next.js Pages
+title: VS Code CheatSheet to boost your productivity.
 date: 2021/3/18
-description: Learn more about Next.js pages.
+description: Learn more about VS Code Cheats to boost your profuctivity.
 tag: web development
 author: You
 ---
